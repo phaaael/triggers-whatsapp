@@ -21,7 +21,7 @@ Automatiza o envio de mensagens no WhatsApp a partir de uma lista de contatos.
 ---
 
 ### 2️⃣ get_contacts.py
-Extrai todos os contatos cadastrados na API Brasil e salva em um arquivo local.
+Extrai todos os contatos cadastrados no aparelho conectado na API Brasil e salva em um arquivo local.
 
 #### Como funciona
 1. Faz uma requisição GET para `https://gateway.apibrasil.io/api/v2/whatsapp/getAllContacts`.  
